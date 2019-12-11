@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0678e9e2-80ca-4f4d-b993-da70df1548a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/service/DemoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/target/classes/service/DemoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/target/classes/service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/dragon/dubbo/consumer/ConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/java/com/dragon/dubbo/consumer/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/src/test/java/com/dragon/dubbo/consumer/ConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/com/dragon/dubbo/provider/Login/LoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/com/dragon/dubbo/provider/ProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/java/com/dragon/dubbo/provider/service/impl/DemoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/provider/src/test/java/com/dragon/dubbo/provider/ProviderApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/dragon/dubbo/consumer/controller/DemoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state relative-caret-position="270">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -141,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="898" />
     <option name="y" value="182" />
     <option name="width" value="1750" />
@@ -349,12 +314,27 @@
       <updated>1575858420361</updated>
       <workItem from="1575858423728" duration="12452000" />
       <workItem from="1575940936515" duration="1221000" />
-      <workItem from="1576028293660" duration="686000" />
+      <workItem from="1576028293660" duration="2011000" />
     </task>
+    <task id="LOCAL-00001" summary="dubbo">
+      <created>1576029185530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576029185530</updated>
+    </task>
+    <task id="LOCAL-00002" summary="dubbo">
+      <created>1576029353494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576029353494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14359000" />
+    <option name="totallyTimeSpent" value="15684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,9 +346,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="776" y="225" width="1400" height="812" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17238806" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -387,7 +368,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.15905744" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.18759231" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -405,6 +386,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dubbo" />
+    <option name="LAST_COMMIT_MESSAGE" value="dubbo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/api/src/main/java/sa" />
@@ -483,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/dragon/dubbo/consumer/controller/DemoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="270">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
