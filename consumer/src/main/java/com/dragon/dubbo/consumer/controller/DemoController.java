@@ -20,6 +20,7 @@ public class DemoController {
     }
     @GetMapping("/login/{name}")
     public String login(@PathVariable("name") String name){
+        System.out.print("");
         return loginService.login(name);
     }
 }
